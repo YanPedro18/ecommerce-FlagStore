@@ -1,0 +1,15 @@
+#root {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  background-color: #f6f6f6;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&family=Roboto:wght@700&family=Urbanist:wght@100&display=swap');
+* {
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Urbanist', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
