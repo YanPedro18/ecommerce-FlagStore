@@ -40,8 +40,8 @@ You can also check out the deployed version of this project [here](https://examp
 &nbsp;
 
 Layout <a name="layout"></a>
-![image](https://imgur.com/WCfNFFh)
-![image](https://imgur.com/LDJXgmV)
+![image](https://i.imgur.com/WCfNFFh.png)
+![image](https://i.imgur.com/LDJXgmV.png)
 
 
 
