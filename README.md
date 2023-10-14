@@ -40,15 +40,15 @@ You can also check out the deployed version of this project [here](https://examp
 &nbsp;
 
 Layout <a name="layout"></a>
-![image](https://drive.google.com/file/d/1jw6UvbQ3rwlxm7pjRKamccYreT1sro1z/view?usp=sharing)
-![image](https://drive.google.com/file/d/1S8GOUZubEDIf76inX940WF1Bi7bdTPiw/view?usp=sharing)
+![image](https://imgur.com/WCfNFFh)
+![image](https://imgur.com/LDJXgmV)
 
 
 
 📂 How to start this project  <a name="launch"></a>
 
 ```bash
-<details>
+
 
 
 
@@ -64,4 +64,4 @@ npm
 Launch the Application:
 npm run dev
 
-</details>
+
