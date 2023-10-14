@@ -1,0 +1,115 @@
+[
+
+    {
+        "id": "1",
+        "imgItem": "src/assets/bolsa1.png",
+        "textItem": "Bolsa LV Neverfull",
+        "priceItem": "11.100,02",
+        "categorieItem": "bolsas",
+        "quantity": 0
+         
+    },
+    {
+        "id": "2",
+        "imgItem": "src/assets/bolsa2.png",
+        "textItem": "Bolsa Prada Saffiano",
+        "priceItem": "7.490,03",
+        "categorieItem": "bolsas",
+        "quantity": 0
+         
+    },
+    {
+        "id": "3",
+        "imgItem": "src/assets/bolsa3.png",
+        "textItem": "Bolsa Gucci Soho",
+        "priceItem": "4.200,10",
+        "categorieItem": "bolsas",
+        "quantity": 0
+         
+    },
+    {
+        "id": "4",
+        "imgItem": "src/assets/bolsa4.png",
+        "textItem": "Bolsa Céline Lugagge",
+        "priceItem": "5.330,25",
+        "categorieItem": "bolsas",
+        "quantity": 0
+         
+    },
+    {
+        "id": "5",
+        "imgItem": "src/assets/joia1.jpeg",
+        "textItem": "Anel Prada Symbole",
+        "priceItem": "5.200,13",
+        "categorieItem": "joias",
+        "quantity": 0
+         
+    },
+    {
+        "id": "6",
+        "imgItem": "src/assets/joia2.jpg",
+        "textItem": "Colar LV Chain",
+        "priceItem": "6.610,50",
+        "categorieItem": "joias",
+        "quantity": 0
+         
+    },
+    {
+        "id": "7",
+        "imgItem": "src/assets/joia3.png",
+        "textItem": "Bracelete Pandora Moments",
+        "priceItem": "1.519,27",
+        "categorieItem": "joias",
+        "quantity": 0
+         
+    },
+    {
+        "id": "8",
+        "imgItem": "src/assets/joia4.jpg",
+        "textItem": "Colar Diamantes Vivara",
+        "priceItem": "43.250,00",
+        "categorieItem": "joias",
+        "quantity": 0
+         
+    },
+    {
+        "id": "9",
+        "imgItem": "src/assets/sapato1.jpg",
+        "textItem": "Bota Gucci Ankle",
+        "priceItem": "7.350,00",
+        "categorieItem": "sapatos",
+        "quantity": 0
+         
+    },
+    {
+        "id": "10",
+        "imgItem": "src/assets/sapato2.jpg",
+        "textItem": "Coturno LV Laureate",
+        "priceItem": "10.600,00",
+        "categorieItem": "sapatos",
+        "quantity": 0
+         
+    },
+    {
+        "id": "11",
+        "imgItem": "src/assets/sapato3.png",
+        "textItem": "Sapato Versace Aevitas",
+        "priceItem": "9.455,00",
+        "categorieItem": "sapatos",
+        "quantity": 0
+         
+    },
+    {
+        "id": "12",
+        "imgItem": "src/assets/sapato4.jpg",
+        "textItem": "Sapato Prada Monolith",
+        "priceItem": "7.900,00",
+        "categorieItem": "sapatos",
+        "quantity": 0
+         
+    }                                               
+         
+    
+
+    
+]
